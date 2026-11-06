@@ -1,0 +1,63 @@
+{
+  "name": "edu-multi-campus-operations-agent",
+  "version": "1.0.0",
+  "description": "Multi-step education operations assistant for Multi Campus Operations Agent.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-multi-campus-operations-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-multi-campus-operations-agent",
+  "displayName": {
+    "en": "Multi Campus Operations Agent",
+    "zh": "多校区运营协同"
+  },
+  "profession": {
+    "en": "Multi Campus Operations Agent",
+    "zh": ""
+  },
+  "displayDescription": {
+    "en": "A multi-step education agent for Multi Campus Operations Agent, producing reviewable plans with human checkpoints.",
+    "zh": "提供多校区运营协同专业协作，完成多步骤分析、方案设计与复盘，输出可执行成果并保留人工确认。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Multi Campus Operations Agent.",
+    "zh": "请帮我完成一次多校区运营协同"
+  },
+  "plugin": "edu-multi-campus-operations-agent",
+  "tags": [
+    {
+      "en": "Campus Management",
+      "zh": "校区管理"
+    },
+    {
+      "en": "Standardization",
+      "zh": "标准化运营"
+    },
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Multi Campus Operations Agent.",
+      "zh": "请帮我完成一次多校区运营协同"
+    },
+    {
+      "en": "Diagnose my supplied education-business information and propose next steps.",
+      "zh": "请诊断我提供的业务资料并给出下一步行动"
+    },
+    {
+      "en": "Generate 校区对比、运营瓶颈、资源配置建议、协同机制、行动计划和升级项 with risks and open questions.",
+      "zh": "请生成校区对比、运营瓶颈、资源配置建议、协同机制、行动计划和升级项，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-multi-campus-operations-agent",
+  "license": "Apache-2.0"
+}

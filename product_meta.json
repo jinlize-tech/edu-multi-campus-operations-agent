@@ -1,0 +1,24 @@
+{
+  "number": 100,
+  "product_id": "JLZ-EDU-AG-020",
+  "chinese_name": "多校区运营协同",
+  "english_name": "Multi Campus Operations Agent",
+  "repository_name": "edu-multi-campus-operations-agent",
+  "product_type": "Agent",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-multi-campus-operations-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "各校区经营/招生/教学/教务/服务数据、资源、流程和协同问题",
+  "main_output": "校区对比、运营瓶颈、资源配置建议、协同机制、行动计划和升级项",
+  "package_entries": [
+    "edu-multi-campus-operations-agent/.codebuddy-plugin/plugin.json",
+    "edu-multi-campus-operations-agent/agents/edu-multi-campus-operations-agent.md",
+    "edu-multi-campus-operations-agent/avatars/expert.png",
+    "edu-multi-campus-operations-agent/README.md"
+  ]
+}
