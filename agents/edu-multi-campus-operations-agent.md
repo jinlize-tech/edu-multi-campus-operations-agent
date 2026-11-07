@@ -6,7 +6,7 @@ displayName:
   zh: '多校区运营协同'
 profession:
   en: 'Multi Campus Operations Agent'
-  zh: ''
+  zh: '多校区运营协同专家'
 maxTurns: 50
 ---
 

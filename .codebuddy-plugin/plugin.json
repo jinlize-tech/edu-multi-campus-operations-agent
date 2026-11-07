@@ -1,6 +1,6 @@
 {
   "name": "edu-multi-campus-operations-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multi-step education operations assistant for Multi Campus Operations Agent.",
   "author": {
     "name": "广州金励泽科技服务有限公司",
@@ -17,7 +17,7 @@
   },
   "profession": {
     "en": "Multi Campus Operations Agent",
-    "zh": ""
+    "zh": "多校区运营协同专家"
   },
   "displayDescription": {
     "en": "A multi-step education agent for Multi Campus Operations Agent, producing reviewable plans with human checkpoints.",
